@@ -12,11 +12,6 @@ public class PrimeiraClasseJava2 {
 				System.out.println("Feminino");
 			}else {
 				System.out.println("Masculino");
-			}
-	
+			}	
 	}
-	
-	
-	
-
 }
