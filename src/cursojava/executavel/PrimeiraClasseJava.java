@@ -1,7 +1,5 @@
 package cursojava.executavel;
 
-import java.awt.geom.Arc2D.Double;
-
 public class PrimeiraClasseJava {
 
 	//main é um método auto executável em Java
@@ -12,7 +10,9 @@ public class PrimeiraClasseJava {
 		double nota3 = 50;
 		double nota4 = 88;
 		
-		System.out.println("Média das notas " + (nota1 + nota2 + nota3 + nota4) / 4);
+		double mediaFinal = (nota1 + nota2 + nota3 + nota4) / 4;
+		
+		System.out.println("Média das notas " + mediaFinal);
 	}
 
 }
