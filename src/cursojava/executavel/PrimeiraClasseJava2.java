@@ -6,7 +6,7 @@ public class PrimeiraClasseJava2 {
 	public static void main(String[] args) {
 		
 			//Char representa uma letra
-			char pessoaFeminino = 'F';
+			char pessoaFeminino = 'p';
 			
 			if (pessoaFeminino == 'F') {
 				System.out.println("Feminino");
