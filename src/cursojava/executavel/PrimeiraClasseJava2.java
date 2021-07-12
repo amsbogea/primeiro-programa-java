@@ -2,7 +2,7 @@ package cursojava.executavel;
 
 public class PrimeiraClasseJava2 {
 
-	//main È um mÈtodo auto execut·vel em Java
+	//main  um  m√©todo auto execut√°vel em Java
 	public static void main(String[] args) {
 		
 			//Char representa uma letra
@@ -12,6 +12,8 @@ public class PrimeiraClasseJava2 {
 				System.out.println("Feminino");
 			}else {
 				System.out.println("Masculino");
-			}	
+			}
+	
 	}
 }
+	
