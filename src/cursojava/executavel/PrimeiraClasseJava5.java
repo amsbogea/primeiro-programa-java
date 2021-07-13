@@ -6,7 +6,6 @@ public class PrimeiraClasseJava5 {
 	public static void main(String[] args) {
 
 		int mediaAluno = 69;
-		String nome = "Alex";
 
 		/*operadores ternarios - sao usadas para microvalidacoes*/
 		String resultado; //variavel
