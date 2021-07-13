@@ -2,17 +2,17 @@ package cursojava.executavel;
 
 public class PrimeiraClasseJava4 {
 
-	//main é um método auto executável em Java
+	// main ï¿½ um mï¿½todo auto executï¿½vel em Java
 	public static void main(String[] args) {
-		
+
 		int mediaAluno = 50;
 		String nome = "Alex";
-		
-		if(mediaAluno >= 70 && nome.equals("Alex")) {
-			System.out.println("Parabéns, você está aprovado!");
-		}   else if (mediaAluno >=40 && mediaAluno < 70 && nome.equals("Alex")) {
-			System.out.println("Você está em recuperação!");
-		}else 
-			System.out.println("Você está em reprovado!");
+
+		if (mediaAluno >= 70 && nome.equals("Alex")) {
+			System.out.println("Parabï¿½ns, vocï¿½ estï¿½ aprovado!");
+		} else if (mediaAluno >= 40 && mediaAluno < 70 && nome.equals("Alex")) {
+			System.out.println("Vocï¿½ estï¿½ em recuperaï¿½ï¿½o!");
+		} else
+			System.out.println("Vocï¿½ estï¿½ em reprovado!");
 	}
 }

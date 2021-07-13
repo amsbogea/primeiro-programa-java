@@ -2,16 +2,16 @@ package cursojava.executavel;
 
 public class PrimeiraClasseJava {
 
-	//main é um método auto executável em Java
+	// main ï¿½ um mï¿½todo auto executï¿½vel em Java
 	public static void main(String[] args) {
 
-		double nota1 = 90;   
+		double nota1 = 90;
 		double nota2 = 70;
 		double nota3 = 50;
 		double nota4 = 88;
 
 		double mediaFinal = (nota1 + nota2 + nota3 + nota4) / 4;
 
-		System.out.println("Média das notas " + mediaFinal);
+		System.out.println("Mï¿½dia das notas " + mediaFinal);
 	}
 }
